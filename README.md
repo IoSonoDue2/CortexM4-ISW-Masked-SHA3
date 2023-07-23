@@ -22,12 +22,13 @@ This repository is organized as follows:
 #### STM32F4 Discovery Microcontroller Implementation
 For this, i recommend using PlatformIO with the following `platformio.ini` settings:
 
+```
 [env:disco_f407vg]
 platform = ststm32
 board = disco_f407vg
 framework = libopencm3
 upload_protocol = mbed
-
+```
 
 1. Navigate to the `STMF4DISCOVERY/` directory.
 2. Compile and build the project using PlatformIO.
