@@ -39,5 +39,5 @@ upload_protocol = mbed
 Feel free to contribute to this project by opening issues or providing pull requests. Please ensure that all contributions align with the existing coding style for consistency.
 
 ## License
-This project is licensed under the terms of the MIT license. For more information, refer to the LICENSE file.
+This project is licensed under the terms of the MIT license.
 
